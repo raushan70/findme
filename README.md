@@ -1,5 +1,5 @@
 # findme
-#Welcome to my portfolio repo.
+Welcome to my portfolio repo.
 
 Prakash Nidhi Verma | Portfolio
 
